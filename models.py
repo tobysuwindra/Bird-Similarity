@@ -9,7 +9,7 @@ except ImportError:
 
 
 model_urls = dict(
-    auc93='https://github.com/tobysuwindra/birdsimilarity/releases/download/BirdSimilarityModel/model_auc93.pth'
+    auc93='https://github.com/tobysuwindra/Bird-Similarity/releases/download/BirdSimilarityModel/model_auc93.pth'
 )
 
 
